@@ -1,0 +1,28 @@
+name: Abe Friedman
+favicon: null
+layout_spectrum: 0.48655748926103115
+typography_spectrum: 0.8758399346843362
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5152296994347125
+  lightness: 0.8066965416073799
+  saturation: 0.6975682161282748
+  rhythmicContrast: 0.14835016848519444
+purpose: []
